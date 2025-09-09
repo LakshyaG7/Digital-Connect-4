@@ -29,3 +29,6 @@ This is a Python implementation of the classic Connect 4 game with a graphical u
 - `Game Board.png`: Game board image
 - `red coin.png`: Player 1 coin image
 - `yellow coin.png`: Player 2 coin image
+
+## Credits
+Developed by Lakshya Goenka and Avik Chopra for HXLS School Programming Club Design Challenge.
